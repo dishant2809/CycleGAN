@@ -1,1 +1,1 @@
-# cycGan
+# cycleGan
